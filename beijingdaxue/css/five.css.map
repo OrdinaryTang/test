@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AACI,QAAC,GACE,WAAW,EAAE,GAAG,EAChB,SAAS,EAAC,IAAI,EACd,KAAK,EAAC,OAAa,EACnB,UAAU,EAAC,IAAI;AAElB,qBAAc,GACV,UAAU,EAAC,IAAI",
-"sources": ["../../A_%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/css/five.scss"],
-"names": [],
-"file": "five.css"
-}
